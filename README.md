@@ -2,6 +2,8 @@
 
 Stops a Windows PC from dropping an iPhone partway through a large photo or video transfer over USB.
 
+Last updated: 2026-10-26.
+
 ## The problem
 
 You copy thousands of photos from an iPhone to Windows (File Explorer, the Photos app or another importer). Partway through, the phone disconnects and reconnects, and the copy fails, sometimes with "A device attached to the system is not functioning" or "The device is unreachable".
@@ -22,7 +24,7 @@ It works with any iPhone or iPad, not only one specific phone. It also touches o
 
 - Windows 10 or 11, with administrator rights.
 - An iPhone or iPad connected with a USB cable.
-- Apple's USB drivers ("Apple Mobile Device USB Driver"), without which Windows doesn't see the phone at all. They come with the Apple Devices app or iTunes from the Microsoft Store. If File Explorer already shows the phone, they're installed.
+- Apple's USB drivers ("Apple Mobile Device USB Driver"), without which Windows doesn't see the phone at all. Install the free [Apple Devices](https://apps.microsoft.com/detail/9NP83LWLPZ9K) app from the Microsoft Store; the drivers come with it. If File Explorer already shows the phone, they're installed. They aren't included here because they're Apple's software and can't be redistributed.
 
 ## How to use it
 
