@@ -22,7 +22,7 @@ It works with any iPhone or iPad, not only one specific phone. It also touches o
 
 - Windows 10 or 11, with administrator rights.
 - An iPhone or iPad connected with a USB cable.
-- Apple's USB drivers ("Apple Mobile Device USB Driver"). They come with the Apple Devices app or iTunes from the Microsoft Store. If File Explorer already shows the phone, they're installed.
+- Apple's USB drivers ("Apple Mobile Device USB Driver"), without which Windows doesn't see the phone at all. They come with the Apple Devices app or iTunes from the Microsoft Store. If File Explorer already shows the phone, they're installed.
 
 ## How to use it
 
