@@ -18,6 +18,12 @@ One cause is Windows power management. During a long copy there are short gaps i
 
 It works with any iPhone or iPad, not only one specific phone. It also touches other Apple USB devices that have been plugged in, such as a wired keyboard, which does no harm.
 
+## Requirements
+
+- Windows 10 or 11, with administrator rights.
+- An iPhone or iPad connected with a USB cable.
+- Apple's USB drivers ("Apple Mobile Device USB Driver"). They come with the Apple Devices app or iTunes from the Microsoft Store. If File Explorer already shows the phone, they're installed.
+
 ## How to use it
 
 1. Plug the iPhone in, unlock it and tap **Trust**, so Windows creates its device entries.
